@@ -7,7 +7,7 @@ namespace WindowsForms02P3U2
         public int a = 0;
         public Primo(int NumPrimo)
         {
-            //prueba
+            //pruebaggfgfg
             for (int i = 1; i <= NumPrimo; i++)
             {
                 if (NumPrimo % i == 0)
